@@ -1,0 +1,24 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+.side-bar {
+  position: fixed;
+  height: 100vh;
+  color: #fff;
+  width: 350px;
+}
+
+.content {
+  margin-left: 350px;
+  
+}
+
